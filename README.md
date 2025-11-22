@@ -17,13 +17,13 @@
 
 <h3 align="center">Dont Forget to Follow my Sosial Media</h3>
 <p align="center">
-  <a href="https://www.tiktok.com/@sandikaaa78">
+  <a href="https://www.tiktok.com/">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/sandikaaa.">
+  <a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sandikaaa_78">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://t.me/">
